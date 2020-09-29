@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Bendovi" Class="BendoviDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\Bendovi.mdf;Integrated Security=True" SettingsObjectName="Bend.Properties.Settings" SettingsPropertyName="BendoviConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Clenovi" Member="Clenovis">
+    <Type Name="Clenovi">
+      <Column Name="ClenoviID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Ime" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Prezime" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Nacionalnost" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="GodinaNaRaganje" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ClenoviNaBend" Member="ClenoviNaBends">
+    <Type Name="ClenoviNaBend">
+      <Column Name="ClenID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="BendID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Uloga" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Bendovi" Member="Bendovis">
+    <Type Name="Bendovi">
+      <Column Name="BendID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Ime" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="BrojNaClenovi" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="GodinaNaFormiranje" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Drzava" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

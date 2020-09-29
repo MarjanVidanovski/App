@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Bend\Bend\obj\Debug\Bend.frmMain.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Bend\Bend\obj\Debug\Bend.frmBend.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Bend\Bend\obj\Debug\Bend.frmClenovi.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Bend\Bend\obj\Debug\Bend.frmClenoviNaBend.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Bend\Bend\obj\Debug\Bend.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Bend\Bend\obj\Debug\Bendovi.csproj.GenerateResource.Cache

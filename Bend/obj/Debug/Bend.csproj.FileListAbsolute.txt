@@ -1,0 +1,17 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\Bend\Bend\bin\Debug\Bend.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Bend\Bend\obj\Debug\Bend.frmBend.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Bend\Bend\obj\Debug\Bend.frmClenovi.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Bend\Bend\obj\Debug\Bend.frmClenoviNaBend.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Bend\Bend\obj\Debug\Bend.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Bend\Bend\obj\Debug\Bend.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Bend\Bend\obj\Debug\Bend.frmMain.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Bend\Bend\bin\Debug\Bendovi.mdf
+C:\Users\user\Documents\Visual Studio 2013\Projects\Bend\Bend\bin\Debug\Bendovi_log.ldf
+C:\Users\user\Documents\Visual Studio 2013\Projects\Bend\Bend\bin\Debug\Bendovi.designer.cs
+C:\Users\user\Documents\Visual Studio 2013\Projects\Bend\Bend\bin\Debug\Bendovi.dbml.layout
+C:\Users\user\Documents\Visual Studio 2013\Projects\Bend\Bend\bin\Debug\Bendovi.dbml
+C:\Users\user\Documents\Visual Studio 2013\Projects\Bend\Bend\bin\Debug\Bend.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Bend\Bend\bin\Debug\Bend.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Bend\Bend\obj\Debug\Bend.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Bend\Bend\obj\Debug\Bend.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Bend\Bend\obj\Debug\Bend.csprojResolveAssemblyReference.cache
